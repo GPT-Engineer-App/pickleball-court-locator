@@ -13,7 +13,7 @@ const pickleballCourts = [
   },
   {
     name: "Sunnyvale Pickleball Center",
-    address: "456 Sunny Street, Sunnyvale, CA",
+    address: "207 Van Vorst St, Jersey City, NJ",
     phone: "098-765-4321",
     website: "https://sunnyvalepickleball.com",
     imageUrl: "https://images.unsplash.com/photo-1592096304832-62463bfdc822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxTdW5ueXZhbGUlMjBQaWNrbGViYWxsJTIwQ291cnRzfGVufDB8fHx8MTcwODk2Njc5OXww&ixlib=rb-4.0.3&q=80&w=1080",
